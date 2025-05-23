@@ -1,0 +1,23 @@
+{
+  "name": "examen_prog1_k5-2025-05-16",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Mathieu-bot/Examen_prog1_k5-2025-05-16#readme",
+  "bugs": {
+    "url": "https://github.com/Mathieu-bot/Examen_prog1_k5-2025-05-16/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathieu-bot/Examen_prog1_k5-2025-05-16.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
